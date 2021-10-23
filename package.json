@@ -1,0 +1,24 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1",
+    "aos": "^2.3.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herocodedev/Banana_Web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/herocodedev/Banana_Web/issues"
+  },
+  "homepage": "https://github.com/herocodedev/Banana_Web#readme",
+  "description": ""
+}
